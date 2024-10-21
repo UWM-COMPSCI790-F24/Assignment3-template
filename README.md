@@ -33,8 +33,8 @@ Provide a high-level summary of your project.
 
 #### Answer
 
-[!NOTE]
-Your answer goes here.
+> [!NOTE]
+> Your answer goes here.
 
 #### Grading
 - -2 points if this section is missing
@@ -45,19 +45,19 @@ Identify the different selection and/or manipulation tasks in your project. Desc
 
 #### Answer
 
-[!NOTE]
-Your answer goes here.
+> [!NOTE]
+> Your answer goes here.
 
 ### Identified Technique Options (6 points)
 Identify possible selection/manipulation techniques that you can implement to allow the user to accomplish the previously identified tasks. Describe why the technique is a suitable choice for the chosen task. Specifically, address the affordances the technique provides that are required by the task and why the technique's constraints will not be an issue. **There must be a minimum of 6 techniques identified (it is possible to use the same technique for different tasks, but you must justify it the same). At least 2 of the identified tasks (from above) must be represented here. Each represented task must have a minimum of 2 identified techniques.**
 
-[!CAUTION]
-Reminder: You CANNOT implement basic grabbing or basic pointing for this assignment
+> [!CAUTION]
+> Reminder: You CANNOT implement basic grabbing or basic pointing for this assignment
 
 #### Answer
 
-[!NOTE]
-Your answer goes here.
+> [!NOTE]
+> Your answer goes here.
 
 #### Grading
 - -2 points for each missing technique, if there are fewer than 6 identified techniques (min 0)
@@ -70,8 +70,8 @@ Of the identified technique options you provided above, identify which ones you 
 
 #### Answer
 
-[!NOTE]
-Your answer goes here
+> [!NOTE]
+> Your answer goes here
 
 #### Grading
 - -6 points if this section is missing
@@ -87,8 +87,8 @@ For each implemented technique, provide instructions for how the grader is suppo
 
 #### Grader Instructions
 
-[!NOTE]
-Your instructions go here.
+> [!NOTE]
+> Your instructions go here.
 
 
 #### Grading
