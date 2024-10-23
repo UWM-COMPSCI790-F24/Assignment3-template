@@ -100,7 +100,7 @@ For each implemented technique, provide instructions for how the grader is suppo
 #### Grading
 Each implemented technique will be responsible for an equal share of the implementation points. For example, if you are implementing 2 techniques (either working in a group of 2 or individually), each technique will be worth 10 points; 3 techniques are each worth 6.67 points each, and 4 techniques are each worth 5 points.
 
-Each technique will be graded on its functionallity in the following way:
+Each technique will be graded on its functionality in the following way:
 
 - 100% if the technique works as expected
 - 80% if the technique mostly works, but there are some bugs
